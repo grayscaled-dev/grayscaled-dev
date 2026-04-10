@@ -39,11 +39,11 @@ I build infrastructure, web apps, and developer tooling. Most of my work lives i
 **Infrastructure**
 
 ![Talos](https://img.shields.io/badge/Talos-1a1a1a?style=for-the-badge&logo=linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-303030?style=for-the-badge&logo=linux&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-464646?style=for-the-badge&logo=caddy&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-5c5c5c?style=for-the-badge&logo=hetzner&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-727272?style=for-the-badge&logo=truenas&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-888888?style=for-the-badge&logo=tailscale&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-363636?style=for-the-badge&logo=linux&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-525252?style=for-the-badge&logo=caddy&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-6e6e6e?style=for-the-badge&logo=hetzner&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-8a8a8a?style=for-the-badge&logo=truenas&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-a6a6a6?style=for-the-badge&logo=tailscale&logoColor=white)
 
 
 ## Links
