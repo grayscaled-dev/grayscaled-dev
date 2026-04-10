@@ -42,7 +42,7 @@ I build infrastructure, web apps, and developer tooling. Most of my work lives i
 ![Hetzner](https://img.shields.io/badge/Hetzner-5c5c5c?style=for-the-badge&logo=hetzner&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-727272?style=for-the-badge&logo=truenas&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-888888?style=for-the-badge&logo=tailscale&logoColor=white)
-![Technitium](https://img.shields.io/badge/Technitium_DNS-9e9e9e?style=for-the-badge&logo=dns&logoColor=white)
+
 
 ## Links
 
