@@ -26,19 +26,22 @@ I build infrastructure, web apps, and developer tooling. Most of my work lives i
 ![Astro](https://img.shields.io/badge/Astro-555555?style=for-the-badge&logo=astro&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-666666?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Infrastructure**
+**Data & DevOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-2a2a2a?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-444444?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555555?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Infrastructure**
+
 ![Talos Linux](https://img.shields.io/badge/Talos_Linux-555555?style=for-the-badge&logo=linux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-666666?style=for-the-badge&logo=linux&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-777777?style=for-the-badge&logo=caddy&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-888888?style=for-the-badge&logo=hetzner&logoColor=white)
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-999999?style=for-the-badge&logo=truenas&logoColor=white)
 ![Tailscale](https://img.shields.io/badge/Tailscale-aaaaaa?style=for-the-badge&logo=tailscale&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-b0b0b0?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Links
 
