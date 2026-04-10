@@ -15,8 +15,10 @@ I build infrastructure, web apps, and developer tooling. Most of my work lives i
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-5c5c5c?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-9e9e9e?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3d3d3d?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-606060?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-838383?style=for-the-badge&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-a6a6a6?style=for-the-badge&logo=yaml&logoColor=white)
 
 **Frameworks**
 
@@ -48,4 +50,4 @@ I build infrastructure, web apps, and developer tooling. Most of my work lives i
 
 [![Website](https://img.shields.io/badge/grayscaled.dev-1a1a1a?style=for-the-badge&logo=google-chrome&logoColor=white)](https://grayscaled.dev)
 [![Email](https://img.shields.io/badge/louis@grayscaled.dev-5c5c5c?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:louis@grayscaled.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9e9e9e?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/louisrgray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9e9e9e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+Cg==&logoColor=white)](https://linkedin.com/in/louisrgray)
